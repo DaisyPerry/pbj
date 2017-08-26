@@ -1,0 +1,40 @@
+body {
+	background-color: #c78c62;
+}
+
+#button1 {
+	background-color: #ff6665;
+	height: 50px;
+	width: 50px;
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+#button2 {
+	background-color: #9c6e88;
+	height: 50px;
+	width: 50px;
+	margin-left: 80%;
+}
+
+#button3 {
+	background-color: #772031;
+	height: 50px;
+	width: 50px;
+	margin-left: 45%;
+}
+
+#button4 {
+	background-color: #d36bab;
+	height: 50px;
+	width: 50px;
+	margin-left: 14%;
+}
+
+#button5 {
+	background-color: #fa1d86;
+	height: 50px;
+	width: 50px;
+	margin-left: 75%;
+}
